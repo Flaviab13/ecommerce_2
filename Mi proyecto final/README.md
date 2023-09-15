@@ -1,2 +1,1 @@
-# ecommerce_2
- 
+ *Mi proyecto final*  [<img src="https://github.com/Flaviab13/ecommerce_2/assets/49066075/9025e94d-d3dd-4b37-b1a7-b3b6233a32e8" width="50" height="50" />](https://github.com/Flaviab13/ecommerce_2/assets/49066075/9025e94d-d3dd-4b37-b1a7-b3b6233a32e8)
